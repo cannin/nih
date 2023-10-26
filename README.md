@@ -1,12 +1,12 @@
 # National Institutes of Health (NIH) Recruitment Summary
 
-# Reputation of the institution and the program: 
+# Reputation of the Institution 
   * National Institutes of Health (NIH) is largest funder of biomedical research in the world ($45 billion, 2022); 10% for the Intramural Research Program (IRP)
       * [https://www.nih.gov/about-nih/what-we-do/budget](https://www.nih.gov/about-nih/what-we-do/budget) 
       * [https://www.nih.gov/about-nih/what-we-do/impact-nih-research](https://www.nih.gov/about-nih/what-we-do/impact-nih-research) 
   * NIH is in the top 15 global (& top 5 in USA) research institutions (Nature Index): [https://www.nature.com/nature-index/annual-tables/2023/institution/all/all/global](https://www.nature.com/nature-index/annual-tables/2023/institution/all/all/global) 
   * 19 Nobel prize winners: [https://irp.nih.gov/about-us/honors/nobel-prize](https://irp.nih.gov/about-us/honors/nobel-prize) 
-# Faculty’s research interests and accessibility
+# Faculty’s Research Interests and Accessibility
   * Augustin Luna’s interest areas: 
       * Cancer therapy prediction and biological mechanisms of response
           * Machine learning, network biology
@@ -19,7 +19,7 @@
           * [https://ccr.cancer.gov/developmental-therapeutics-branch](https://ccr.cancer.gov/developmental-therapeutics-branch) 
   * Augustin Luna has mentored students for ~10 years from high school to PhD level
       * Augustin Luna has been a post-baccalaureate fellow, graduate student, and investigator at NIH that informs his mentorship of NIH trainees
-# Quality of research facilities
+# Quality of Research Facilities
   * Intramural Research Program (IRP): [https://irp.nih.gov/](https://irp.nih.gov/)
   * 23 institutes across health areas: [https://irp.nih.gov/about-us/our-programs](https://irp.nih.gov/about-us/our-programs) 
   * ~50 buildings on the NIH campuses: [https://irp.nih.gov/about-us/what-is-the-irp](https://irp.nih.gov/about-us/what-is-the-irp) 
@@ -28,7 +28,7 @@
       * ~10K patients per year; 800 clinical trials: [https://www.cc.nih.gov/sites/nihinternet/files/assets/about/pdf/2022CCDataReport.pdf](https://www.cc.nih.gov/sites/nihinternet/files/assets/about/pdf/2022CCDataReport.pdf) 
   * 17 categories of core facilities: [https://ostr.ccr.cancer.gov/resources/all](https://ostr.ccr.cancer.gov/resources/all) 
   * Annual operating budgets (instead of grants) to investigators aid in lab stability: [https://oir.nih.gov/sourcebook/tenure-nih-intramural-research-program/resources](https://oir.nih.gov/sourcebook/tenure-nih-intramural-research-program/resources) 
-# Geographic location
+# Geographic Location
   * 3 large nearby airports (DCA, IAD, BWI) 
   * Rapid & affordable access to cities on the East Coast (e.g., by cheap bus NYC or hourly flights to Boston)
       * [https://www.washingtonpost.com/wp-srv/artsandliving/travel/busreview/](https://www.washingtonpost.com/wp-srv/artsandliving/travel/busreview/) (~$50 round trip)
@@ -39,13 +39,13 @@
   * Activities and attractions of Washington DC: 
       * Free Smithsonian museums and zoo: [https://www.si.edu/visit/hours](https://www.si.edu/visit/hours) 
       * Weekend activities (07/31/2023): [https://dcist.com/story/23/07/27/weekend-events-07-27-2023/](https://dcist.com/story/23/07/27/weekend-events-07-27-2023/) 
-# Cost of living and the availability of affordable housing
+# Cost of Living
   * Areas north of the main NIH campus (e.g., Rockville, MD) tend to be affordable and connected to NIH via subway 
       * NIH subsidizes commuting costs: [https://ors.od.nih.gov/pes/dats/Transhare/Pages/transhare.aspx](https://ors.od.nih.gov/pes/dats/Transhare/Pages/transhare.aspx) 
   * Stipend ranges:
       * Graduate: [https://www.training.nih.gov/predoctoral_irta_stipend_levels](https://www.training.nih.gov/predoctoral_irta_stipend_levels) 
       * Post-Doc: [https://www.training.nih.gov/postdoctoral_irta_stipend_ranges](https://www.training.nih.gov/postdoctoral_irta_stipend_ranges) 
-# Social climate and support systems in the department and within the university at large
+# Social Climate and Support Systems
   * Demographics (1000+ investigators, 2000+ postdocs, ~400 graduate students): [https://oir.nih.gov/sourcebook/personnel/irp-demographics/intramural-research-program-personnel-demographics-end-fy22](https://oir.nih.gov/sourcebook/personnel/irp-demographics/intramural-research-program-personnel-demographics-end-fy22) 
   * Graduate student resources: [https://www.training.nih.gov/trainees/grads](https://www.training.nih.gov/trainees/grads)	
   * Graduate student symposium: [https://www.training.nih.gov/gsc/symposium](https://www.training.nih.gov/gsc/symposium)	
