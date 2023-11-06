@@ -1,4 +1,4 @@
-# National Institutes of Health (NIH) Recruitment Summary
+# National Institutes of Health (NIH) Trainee Recruitment Summary
 
 # Reputation of the Institution 
   * National Institutes of Health (NIH) is largest funder of biomedical research in the world ($45 billion, 2022); 10% for the Intramural Research Program (IRP)
