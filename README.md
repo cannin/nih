@@ -44,7 +44,8 @@
       * NIH subsidizes commuting costs: [https://ors.od.nih.gov/pes/dats/Transhare/Pages/transhare.aspx](https://ors.od.nih.gov/pes/dats/Transhare/Pages/transhare.aspx) 
   * Stipend ranges:
       * Graduate: [https://www.training.nih.gov/predoctoral_irta_stipend_levels](https://www.training.nih.gov/predoctoral_irta_stipend_levels) 
-      * Post-Doc: [https://www.training.nih.gov/postdoctoral_irta_stipend_ranges](https://www.training.nih.gov/postdoctoral_irta_stipend_ranges) 
+      * Post-Doc: [https://www.training.nih.gov/postdoctoral_irta_stipend_ranges](https://www.training.nih.gov/postdoctoral_irta_stipend_ranges)
+  * FAES Housing provides private, single occupancy bedrooms close to the NIH main campus; apartments include 1) affordable and flexible stay agreements, 2) fully furnished, 3) utilities included: [https://faes.org/housing](https://faes.org/housing)
 # Social Climate and Support Systems
   * Demographics (1000+ investigators, 2000+ postdocs, ~400 graduate students): [https://oir.nih.gov/sourcebook/personnel/irp-demographics/intramural-research-program-personnel-demographics-end-fy22](https://oir.nih.gov/sourcebook/personnel/irp-demographics/intramural-research-program-personnel-demographics-end-fy22) 
   * Graduate student resources: [https://www.training.nih.gov/trainees/grads](https://www.training.nih.gov/trainees/grads)	
