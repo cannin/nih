@@ -42,7 +42,7 @@
 # Cost of Living
   * Areas north of the main NIH campus (e.g., Rockville, MD) tend to be affordable and connected to NIH via subway 
       * NIH subsidizes commuting costs: [https://ors.od.nih.gov/pes/dats/Transhare/Pages/transhare.aspx](https://ors.od.nih.gov/pes/dats/Transhare/Pages/transhare.aspx) 
-  * Stipend ranges:
+  * Stipend salary ranges:
       * Graduate: [https://www.training.nih.gov/predoctoral_irta_stipend_levels](https://www.training.nih.gov/predoctoral_irta_stipend_levels) 
       * Post-Doc: [https://www.training.nih.gov/postdoctoral_irta_stipend_ranges](https://www.training.nih.gov/postdoctoral_irta_stipend_ranges)
   * FAES Housing provides private, single occupancy bedrooms close to the NIH main campus; apartments include 1) affordable and flexible stay agreements, 2) fully furnished, 3) utilities included: [https://faes.org/housing](https://faes.org/housing)
